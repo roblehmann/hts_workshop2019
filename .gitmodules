@@ -1,0 +1,6 @@
+[submodule "3-bulkRNASeq"]
+	path = 3-bulkRNASeq
+	url = https://github.com/mthimma/BulkRNASeq
+[submodule "2-genomeAssembly"]
+	path = 2-genomeAssembly
+	url = https://github.com/roblehmann/compBio2019
