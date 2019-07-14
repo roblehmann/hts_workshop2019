@@ -3,4 +3,4 @@
 	url = https://github.com/mthimma/BulkRNASeq
 [submodule "2-genomeAssembly"]
 	path = 2-genomeAssembly
-	url = https://github.com/roblehmann/compBio2019
+	url = https://github.com/roblehmann/hts_workshop2019_genomics
