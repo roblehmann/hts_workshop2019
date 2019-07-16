@@ -1,4 +1,4 @@
-# A Practical Introduction to Genomics, Transcriptomics, and more - KAUST 2019
+# A Practical Introduction to Data Analysis for Genomics and Transcriptomics - KAUST 2019
 
 ## Table of Content
   * [About](https://roblehmann.github.io/hts_workshop2019/#about)
