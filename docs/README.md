@@ -5,7 +5,7 @@
   * [Program](https://roblehmann.github.io/hts_workshop2019/#program)
   * [Speaker](https://roblehmann.github.io/hts_workshop2019/#speaker)
   * [Location](https://roblehmann.github.io/hts_workshop2019/#Location)
-
+  * [Contacts](https://roblehmann.github.io/hts_workshop2019/#Contacts)
 ## About
 
 Genomics and transcriptomics are rapidly becoming standard methods to examine living systems. This workshop provides an introduction to the methods and tools used to analyse next-generation-sequencing data, provides understanding of its limitations and a basic understanding on how the analysis algorithms work. This workshop will take the participants through an example project demonstrating how to evaluate the quality of data as provided by a sequencing facility, how to perform a de-novo genome assembly, and how to align the data against a known and annotated reference genome. Furthermore, participants will learn how to compare transcription data between different samples.
@@ -14,7 +14,9 @@ The workshop is scheduled for 18th - 22nd of August, from 9:30 to 17:00, and wil
  
 Major topics to be covered: Genome assembly, Transcriptomics, Visualization and Tips/tricks.
 
-Please register [here](https://www.surveymonkey.com/r/SRBQK6K) and fill out the short pre-survey. The link contains a short summary of the course, pre-requisites and 7 questions that needs your response.
+Please register **[here](https://www.surveymonkey.com/r/SRBQK6K)** and fill out the short pre-survey. The link contains a short summary of the course, pre-requisites and 7 questions that needs your response.
+
+
 
 **THE LAST DATE FOR REGISTRATION IS 1st AUGUST 2019.**
 
@@ -59,3 +61,9 @@ Acceptance mails, course syllabus, venue and other details will be sent after th
 
 ## Location
 **TBA**
+
+## Contacts
+
+  * [Arun Nagarajan](arun.nagarajan@kaust.edu.sa)
+  * [Manjula Thimma](manjula.thimma@kaust.edu.sa)
+  * [Robert Lehmann](robert.lehman@kaust.edu.sa)
