@@ -6,6 +6,7 @@
   * [Speaker](https://roblehmann.github.io/hts_workshop2019/#speaker)
   * [Location](https://roblehmann.github.io/hts_workshop2019/#Location)
   * [Contacts](https://roblehmann.github.io/hts_workshop2019/#Contacts)
+  
 ## About
 
 Genomics and transcriptomics are rapidly becoming standard methods to examine living systems. This workshop provides an introduction to the methods and tools used to analyse next-generation-sequencing data, provides understanding of its limitations and a basic understanding on how the analysis algorithms work. This workshop will take the participants through an example project demonstrating how to evaluate the quality of data as provided by a sequencing facility, how to perform a de-novo genome assembly, and how to align the data against a known and annotated reference genome. Furthermore, participants will learn how to compare transcription data between different samples.
