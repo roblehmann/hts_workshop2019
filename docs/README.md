@@ -14,11 +14,7 @@ The workshop is scheduled for 18th - 22nd of August, from 9:30 to 17:00, and wil
  
 Major topics to be covered: Genome assembly, Transcriptomics, Visualization and Tips/tricks.
 
-Please find below the link for registration including a short pre-survey:
-
-https://www.surveymonkey.com/r/SRBQK6K
-
-The link contains a short summary of the course, pre-requisites and 7 questions that needs your response.
+Please register [here](https://www.surveymonkey.com/r/SRBQK6K) and fill out the short pre-survey. The link contains a short summary of the course, pre-requisites and 7 questions that needs your response.
 
 **THE LAST DATE FOR REGISTRATION IS 1st AUGUST 2019.**
 
