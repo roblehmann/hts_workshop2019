@@ -4,3 +4,6 @@
 [submodule "2-genomeAssembly"]
 	path = 2-genomeAssembly
 	url = https://github.com/roblehmann/hts_workshop2019_genomics
+[submodule "1-Basics"]
+	path = 1-Basics
+	url = https://github.com/gitarunprasanna83/UNIX_BASICS
