@@ -15,14 +15,6 @@ The workshop is scheduled for 18th - 22nd of August, from 9:30 to 17:00, and wil
  
 Major topics to be covered: Genome assembly, Transcriptomics, Visualization and Tips/tricks.
 
-Please register **[here](https://www.surveymonkey.com/r/SRBQK6K)** and fill out the short pre-survey. The link contains a short summary of the course, pre-requisites and 7 questions that needs your response.
-
-
-
-**THE LAST DATE FOR REGISTRATION IS 1st AUGUST 2019.**
-
-Acceptance mails, course syllabus, venue and other details will be sent after the deadline.
-
 ## Program
 ### Sunday - 18th of August: The Tools of Computation Biology
 1. Introduction to programming basics
