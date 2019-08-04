@@ -15,39 +15,31 @@ The workshop is scheduled for 18th - 22nd of August, from 9:30 to 17:00, and wil
  
 Major topics to be covered: Genome assembly, Transcriptomics, Visualization and Tips/tricks.
 
-Please register **[here](https://www.surveymonkey.com/r/SRBQK6K)** and fill out the short pre-survey. The link contains a short summary of the course, pre-requisites and 7 questions that needs your response.
-
-
-
-**THE LAST DATE FOR REGISTRATION IS 1st AUGUST 2019.**
-
-Acceptance mails, course syllabus, venue and other details will be sent after the deadline.
-
 ## Program
-### Sunday - 18th of August: The Tools of Computation Biology
+### Sunday - 18th of August, Building 5, Level 5, Room 5520: The Tools of Computational Biology
 1. Introduction to programming basics
 2. Utility commands in data management
 3. Common file formats in NGS data
 4. Introduction to High-Performance Computing environment
 
-### Monday - 19th of August: Where do the data come from?
+### Monday - 19th of August, Building 5, Level 5, Room 5520: Where do the data come from?
 1. Introduction to Next-Generation-Sequencing
 2. Quality control on raw data 
 3. Assembling a small genome sequence
 
-### Tuesday - 20th of August: How to make a genome
+### Tuesday - 20th of August, Building 3, Level 5, Room 5520: How to make a genome
 3. Assembly QC
 4. Annotating genes 
 5. Using long reads for assembly
 6. Hybrid Assembly QC
 
-### Wednesday - 21th of August: How to quantify transcription
+### Wednesday - 21th of August, Building 3, Level 5, Room 5520: How to quantify transcription
 1. Experimental design and strategies
 2. Data cleaning + mapping
 3. Quantification
 4. Visualization 
 
-### Thursday - 22th of August: How to compare transcription between samples
+### Thursday - 22th of August, Building 3, Level 5, Room 5520: How to compare transcription between samples
 5. Differential expression
 6. Functional annotation
 7. Alternative splicing
@@ -61,7 +53,8 @@ Acceptance mails, course syllabus, venue and other details will be sent after th
   * [Alaguraj Veluchamy](https://chromatin.kaust.edu.sa/Pages/AlagurajVeluchamy.aspx), Research Scientist at KAUST, is interested in **TBA**
 
 ## Location
-**TBA**
+  * Aug 18–19 Building 5, Level 5, Room 5520
+  * Aug 20-22 Building 3, Level 5, Room 5520
 
 ## Contacts
 
